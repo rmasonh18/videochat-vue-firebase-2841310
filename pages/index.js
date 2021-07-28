@@ -1,3 +1,14 @@
+/*
+ * Project: Jacqueline Taylor & Friends
+ *
+ * Created on Tue Jul 27 2021
+ *
+ * Filename: index.js
+ *
+ * Copyright (c) 2021 Bujisoft
+ */
+
+
 import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
